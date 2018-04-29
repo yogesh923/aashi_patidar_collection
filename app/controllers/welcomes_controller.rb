@@ -6,7 +6,7 @@ class WelcomesController < ApplicationController
 	def gallery
 	end
 	
-	def wish_charu_to_happy_birthday
+	def meghna_special
 		
 	end
 end
