@@ -6,7 +6,7 @@ class WelcomesController < ApplicationController
 	def gallery
 	end
 	
-	def meghna_special
+	def dipali_special
 		
 	end
 end
