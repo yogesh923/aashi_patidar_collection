@@ -4,6 +4,6 @@ root "welcomes#index"
 
 get "gallery", to: "welcomes#gallery"
 
-get "dipali_special", to: "welcomes#dipali_special" 
+get "min_special", to: "welcomes#min_special" 
 
 end

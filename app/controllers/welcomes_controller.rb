@@ -6,7 +6,7 @@ class WelcomesController < ApplicationController
 	def gallery
 	end
 	
-	def dipali_special
+	def min_special
 		
 	end
 end
